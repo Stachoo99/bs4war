@@ -1,0 +1,39 @@
+#main-nav {
+    background-color: transparent;
+}
+
+
+#main-nav .navbar-collapse {
+	justify-content: flex-end;
+    
+}
+
+.navbar-light .navbar-brand {
+	color: #FFF;
+}
+
+.navbar-light .navbar-brand:hover {
+	color: #b2b2b2;
+}
+
+/*
+.navbar-light .navbar-nav .nav-link {
+	color: #FFF;
+    font-style: bold;
+}
+*/
+
+
+.header {
+	height: 500px;
+    background-image: url(/bs4war/img/header/pictures_on_the_wall.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#tytul {
+    color: #FFF;
+    top: 50vh;
+    text-align: center;
+}
